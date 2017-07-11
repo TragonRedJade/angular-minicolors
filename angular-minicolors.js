@@ -67,7 +67,7 @@
 
         //init method
         var initMinicolors = function() {
-          debugger
+
           if (!ngModel) {
             return;
           }

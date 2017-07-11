@@ -16,7 +16,7 @@
 
   angular.module('minicolors').provider('minicolors', function() {
     this.defaults = {
-      theme: 'bootstrap',
+      theme: 'test',
       position: 'top left',
       defaultValue: '',
       animationSpeed: 50,

@@ -31,7 +31,7 @@
       opacity: false,
       show: null,
       showSpeed: 100,
-      swatches: ["#ef9a9a|#90caf9|#a5d6a7|#fff59d|#ffcc80|#bcaaa4|#eeeeee|#f44336|#2196f3|#4caf50|#ffeb3b|#ff9800|#795548|#9e9e9e"]
+      swatches: ["#ef9a9a","#90caf9","#a5d6a7","#fff59d","#ffcc80","#bcaaa4","#eeeeee","#f44336","#2196f3","#4caf50","#ffeb3b","#ff9800","#795548","#9e9e9e"]
     };
 
     this.$get = function() {

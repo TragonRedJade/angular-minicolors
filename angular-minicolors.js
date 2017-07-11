@@ -30,7 +30,8 @@
       letterCase: 'lowercase',
       opacity: false,
       show: null,
-      showSpeed: 100
+      showSpeed: 100,
+      swatches: []
     };
 
     this.$get = function() {

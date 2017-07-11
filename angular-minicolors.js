@@ -71,6 +71,7 @@
           if (!ngModel) {
             return;
           }
+          debugger
           var settings = getSettings();
           settings.change = function(hex) {
             scope.$apply(function() {
